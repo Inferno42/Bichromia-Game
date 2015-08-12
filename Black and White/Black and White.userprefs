@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Z4\Z4\Assets\Scripts\Player\CharacterCreator\CreatorCore.cs">
+    <Files>
+      <File FileName="..\..\Z4\Z4\Assets\Scripts\Player\CharacterCreator\CreatorCore.cs" Line="54" Column="73" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Inferno\Desktop\Z4\Z4\Assets\Scripts\Player\CharacterCreator\CreatorCore.cs" line="61" />
+      <Breakpoint file="C:\Users\Inferno\Desktop\Z4\Z4\Assets\Scripts\Player\CharacterCreator\CreatorCore.cs" line="60" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
